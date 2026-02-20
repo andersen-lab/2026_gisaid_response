@@ -33,7 +33,7 @@ Project Lead, Nextstrain
 Professor, Biozentrum, University of Basel\
 Project Lead, Nextstrain
 
-**Dr. Tanja Stadler**\
+**Tanja Stadler, PhD**\
 Professor, ETH Zurich\
 Project Lead, CoV-Spectrum
 
